@@ -10,7 +10,7 @@ public class NumberOfDaysElapsed {
 			{31,28,31,30,31,30,31,31,30,31,30,31}	//윤년  mdays[1][]
 	};
 	
-	// 평년 윤년 구분 / 윤년일 1 평년일 0 반환
+	// 평년 윤년 구분 / 윤년 1 평년 0 반환
 	static int isLeep(int year) {
 		return (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) ? 1 : 0;
 	}
