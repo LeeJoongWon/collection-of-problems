@@ -1,6 +1,6 @@
 public class PhysicalExamination {
 	
-	static final int VMAX = 21;	//½Ã·ÂºĞÆ÷
+	static final int VMAX = 21;	//ì‹œë ¥ë¶„í¬
 	
 	static class PhyscData{
 		String 	name;
@@ -14,7 +14,7 @@ public class PhysicalExamination {
 		}		
 	}
 	
-	//Å°ÀÇ Æò±Õ°ª
+	//í‚¤ì˜ í‰ê· ê°’
 	static double aveHeight(PhyscData[] dat) {
 		double sum = 0;
 		
@@ -52,14 +52,14 @@ public class PhysicalExamination {
 		
 		int[] vdist = new int[VMAX];
 		
-		System.out.printf("Æò±Õ Å°:%5.1fcm",aveHeight(x));
+		System.out.printf("í‰ê·  í‚¤:%5.1fcm",aveHeight(x));
 		
 		distVision(x, vdist);
 		
-		System.out.println("½Ã·Â ºĞÆ÷");
+		System.out.println("ì‹œë ¥ ë¶„í¬");
 		
 		for(int i=0; i<VMAX; i++) {
-			System.out.printf("%3.1f~:%2d¸í\n", i/10.0, vdist[i]);
+			System.out.printf("%3.1f~:%2dëª…\n", i/10.0, vdist[i]);
 		}
 	}
 	
