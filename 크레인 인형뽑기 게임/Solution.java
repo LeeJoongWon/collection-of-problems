@@ -38,8 +38,7 @@ class Solution {
     public int solution(int[][] board, int[] moves) {
         
     	 Stack stack = new Stack(100);
-    	 int answer = 0;;
-    	 stack.push(0);    
+    	 int answer = 0;;    
             
          for(int i=0; i<moves.length; i++){
         	 
@@ -54,9 +53,10 @@ class Solution {
                 		 answer += 2;
                 	 }else {
                 		 stack.push(board[j][move]);
-                		 board[j][move] = 0;
+                		 
                 	 }
-                	 
+                	  board[j][move] = 0;
+			 break;
                  }
                               
              }
