@@ -1,10 +1,11 @@
 class Solution {
     public int[] solution(int[] lottos, int[] win_nums) {
 
-        int num = 0;  //일치한 번호수
+        int num = 0;    //일치한 번호수
         int zero = 0;   //0의 갯수
-        int min = 0;
-        int max = 0;
+        int max = 0;    //최고 등수
+        int min = 0;    //최저 등수
+        
         for(int i = 0; i<lottos.length; i++){
             if(lottos[i] == 0){
                 zero++;
@@ -17,7 +18,7 @@ class Solution {
             }
 
         }
-
+        
         max = (num+zero <= 0) ? 6 : 7 - (num+zero);
         min = (num <= 0) ? 6 : 7 - num;
 
