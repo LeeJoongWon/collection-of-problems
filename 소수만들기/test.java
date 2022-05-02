@@ -5,7 +5,7 @@ public class test {
 	public static boolean isPrimeNumber(int num) {
 		if (num % 2 == 0 || num % 3 == 0)
 			return false;
-		for (int n = 5; n < Math.sqrt(num)+1; n += 2) {
+		for (int n = 5; n <= Math.sqrt(num); n += 2) {
 			if (num % n == 0) {
 				return false;
 			}
