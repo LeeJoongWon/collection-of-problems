@@ -1,7 +1,5 @@
 package Test;
 
-import java.util.Scanner;
-
 public class test {
 
 	public static boolean isPrimeNumber(int num) {
