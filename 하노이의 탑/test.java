@@ -1,9 +1,7 @@
 package Test;
 
-import java.util.concurrent.RecursiveAction;
-
 public class test {
-	static String[] name = { "A기둥", "B기둥", "C기둥" };
+	
 	static int count = 0;
 
 	static void move(int no, int x, int y) {
