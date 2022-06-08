@@ -4,8 +4,8 @@ class Solution {
 	
 	public static void main(String[] arg) {
 		
-		String txt = "one4seveneight";
-		String[] numberEnglish = {
+	    String txt = "one4seveneight";
+	    String[] numberEnglish = {
 	    			"zero","one","two","three","four",
 	    			"five","six","seven","eight","nine"};
 		
