@@ -7,7 +7,7 @@ https://programmers.co.kr/learn/courses/30/lessons/67256
 
 
 
-#문제
+# 문제
 
 
 전화 키패드에서 왼손과 오른손의 엄지손가락만을 이용해서 숫자만을 입력하려고 합니다.
