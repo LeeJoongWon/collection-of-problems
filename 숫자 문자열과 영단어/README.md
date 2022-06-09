@@ -1,9 +1,11 @@
-#숫자 문자열과 영단어
+# 숫자 문자열과 영단어(프로그래머스)
 
 
 https://programmers.co.kr/learn/courses/30/lessons/81301
 
-문제
+풀이방법: String 배열에 영단어표를 만들고 문자열 치환(replaceAll)을 이용하여 해결 
+
+# 문제
 
 
 1478 → "one4seveneight"
