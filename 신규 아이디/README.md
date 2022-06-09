@@ -1,6 +1,4 @@
-# 신규 아이디 추천
-
-
+# 신규 아이디 추천 (프로그래머스)
 https://programmers.co.kr/learn/courses/30/lessons/72410
 
 -정규식과 문자열 치환(replaceAll)을 이용하면 쉽게 풀 수 있다
