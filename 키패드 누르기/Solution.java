@@ -1,6 +1,7 @@
 package Test;
 
-class Solution {
+class Solution 	
+	//위아래로 이동할땐 +3 옆으로는 +1인것을 이용하면 된다
 	 public static String solution(int[] numbers, String hand) {
 	        String answer = "";
 	        int left =10;
