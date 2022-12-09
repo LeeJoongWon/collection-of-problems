@@ -14,17 +14,17 @@ total : 20
 
 [명예의 전당(1) (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9(1))
 
-[모의고사 (프로그래머스 Level 1)](https://programmers.co.kr/learn/courses/30/lessons/42840)
+[모의고사 (프로그래머스 Level 1)]([https://programmers.co.kr/learn/courses/30/lessons/42840](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC))
 
-[문자열 나누기 (프로그래머스 Level 1)](https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=javascript)
+[문자열 나누기 (프로그래머스 Level 1)]([https://school.programmers.co.kr/learn/courses/30/lessons/140108?language=javascript](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0))
 
-[소수 만들기 (프로그래머스 Level 1)](https://programmers.co.kr/learn/courses/30/lessons/12977)
+[소수 만들기 (프로그래머스 Level 1)]([https://programmers.co.kr/learn/courses/30/lessons/12977](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0))
 
-[숫자 문자열과 영단어 (프로그래머스 Level 1)](https://programmers.co.kr/learn/courses/30/lessons/81301)
+[숫자 문자열과 영단어 (프로그래머스 Level 1)]([https://programmers.co.kr/learn/courses/30/lessons/81301](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4))
 
-[신고 결과 받기 (프로그래머스 Level 1)](https://programmers.co.kr/learn/courses/30/lessons/92334)
+[신고 결과 받기 (프로그래머스 Level 1)]([https://programmers.co.kr/learn/courses/30/lessons/92334](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0))
 
-[신규 아이디 추천 (프로그래머스 Level 1)](https://programmers.co.kr/learn/courses/30/lessons/72410)
+[신규 아이디 추천 (프로그래머스 Level 1)]([https://programmers.co.kr/learn/courses/30/lessons/72410](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94))
 
 [완주하지 못한 선수 (프로그래머스 Level 1)](https://programmers.co.kr/learn/courses/30/lessons/42576)
 
