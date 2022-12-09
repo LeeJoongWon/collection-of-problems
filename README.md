@@ -1,8 +1,8 @@
 # collection-of-problems
-total : 24
+total : 25
 ---
 # 프로그래머스 문제들
-## Level 1 (19개)
+## Level 1 (20개)
 
 [K번째 수 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/K%EB%B2%88%EC%A7%B8%EC%88%98)
 
@@ -41,6 +41,8 @@ total : 24
 [음양 더하기(프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
 [내적 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EB%82%B4%EC%A0%81)
+
+[3진법 뒤집기 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
 
 ---
 
