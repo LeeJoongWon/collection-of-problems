@@ -36,17 +36,17 @@ total : 20
 
 ---
 
-# 기타 문제들
+# 기타 문제들 (5개)
 
-8퀸 - 여덟 퀸 문제 (막스 베첼이 처음으로 제안한 퍼즐 문제)
+[8퀸 - 여덟 퀸 문제](https://github.com/LeeJoongWon/collection-of-problems/tree/master/8%ED%80%B8)
 
-NumberOfDaysElapsed - 평년과 윤년을 구하는 풀이
+[NumberOfDaysElapsed - 평년과 윤년을 구하는 풀이](https://github.com/LeeJoongWon/collection-of-problems/tree/master/NumberOfDaysElapsed)
 
-PhysicalExamination - 평균값과 분포도를 구하는 풀이
+[PhysicalExamination - 평균값과 분포도를 구하는 풀이](https://github.com/LeeJoongWon/collection-of-problems/tree/master/PhysicalExamination)
 
-primeNumber - 소수를 효율적으로 구하는 풀이
+[primeNumber - 소수를 효율적으로 구하는 풀이](https://github.com/LeeJoongWon/collection-of-problems/tree/master/primeNumber)
 
-하노이의 탑 - 재귀를 이용하는 대표적인 문제
+[하노이의 탑 - 재귀를 이용하는 대표적인 문제](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91)
 
 
 
