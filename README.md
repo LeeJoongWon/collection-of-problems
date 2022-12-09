@@ -1,7 +1,7 @@
 # collection-of-problems
 ---
 # 프로그래머스 문제들
-1. ## Level 1
+## 1.Level 1
 
 [K번째 수 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/K%EB%B2%88%EC%A7%B8%EC%88%98)
 
