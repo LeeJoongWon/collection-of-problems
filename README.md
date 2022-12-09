@@ -1,8 +1,8 @@
 # collection-of-problems
-total : 21
+total : 22
 ---
 # 프로그래머스 문제들
-## Level 1 (16개)
+## Level 1 (17개)
 
 [K번째 수 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/K%EB%B2%88%EC%A7%B8%EC%88%98)
 
@@ -35,6 +35,9 @@ total : 21
 [푸드 파이트 대회 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C)
 
 [없는 숫자 더하기(프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
+[약수의 갯수 더하기(프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%AF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
+
 
 ---
 
