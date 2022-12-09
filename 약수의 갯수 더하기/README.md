@@ -1,4 +1,4 @@
-# 약수의 갯수 더하기
+# 약수의 개수와 덧셈
 https://school.programmers.co.kr/learn/courses/30/lessons/77884
 
 # 문제 설명
