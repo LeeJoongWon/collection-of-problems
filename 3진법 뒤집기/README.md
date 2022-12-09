@@ -1,7 +1,7 @@
 # 3진법 뒤집기(프로그래머스)
 https://school.programmers.co.kr/learn/courses/30/lessons/68935
 
-#문제 설명
+# 문제 설명
 
 자연수 n이 매개변수로 주어집니다. 
 
