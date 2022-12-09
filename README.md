@@ -1,5 +1,5 @@
 # collection-of-problems
-total : 20
+total : 21
 ---
 # 프로그래머스 문제들
 ## Level 1 (16개)
