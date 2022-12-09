@@ -1,4 +1,5 @@
-# 푸드 파이트 대회
+# 푸드 파이트 대회 (프로그래머스)
+https://school.programmers.co.kr/learn/courses/30/lessons/134240
 
 # 문제 설명
 
