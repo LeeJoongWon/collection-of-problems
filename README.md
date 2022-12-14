@@ -1,5 +1,5 @@
 # collection-of-problems
-total : 26
+total : 27
 ---
 # 프로그래머스 문제들
 ## Level 1 (21개)
@@ -45,6 +45,12 @@ total : 26
 [3진법 뒤집기 (프로그래머스 Level 1)](https://github.com/LeeJoongWon/collection-of-problems/tree/master/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
 
 [가장 가까운 같은 글자](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90)
+
+## Level 2 (1개)
+
+[최댓값과 최솟값](https://github.com/LeeJoongWon/collection-of-problems/tree/master/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92)
+
+
 
 ---
 
