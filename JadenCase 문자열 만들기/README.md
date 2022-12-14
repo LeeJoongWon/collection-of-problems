@@ -37,8 +37,6 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/is
 공백이 아닌 다음 문자열이 나왔을 경우 대문자로 바꿔야 됩니다
 
 그 외에는 전부 소문자로 바꾸면 됩니다
-
-문자열의 현재 인덱스를 가져오는 charAt()
  
 대문자, 소문자로 바꿔주는  toUpperCase() , toLowerCase()
 
