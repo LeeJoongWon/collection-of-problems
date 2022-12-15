@@ -1,4 +1,4 @@
-# collection-of-problems
+# 알고리즘 문제들
 total : 28
 ---
 # 프로그래머스 문제들
