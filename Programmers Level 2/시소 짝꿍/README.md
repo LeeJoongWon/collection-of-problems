@@ -1,4 +1,4 @@
-# 올바른 괄호 (프로그래머스)
+# 시소 짝궁 (프로그래머스)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/152996#qna
 
