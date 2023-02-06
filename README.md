@@ -1,9 +1,12 @@
 ## 알고리즘 문제
-* total : 30
+
+-   total : 31
 
 ### Programmers
-* Level 1 (21개)
-* Level 2 (4개)
+
+-   Level 1 (21개)
+-   Level 2 (5개)
 
 ### Etc
-* 5개
+
+-   5개
