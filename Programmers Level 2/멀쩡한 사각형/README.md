@@ -24,4 +24,4 @@ https://school.programmers.co.kr/learn/courses/30/lessons/62048
 
 대각선을 지나가는 단위 정사각형의 개수를 구하는 수학공식이 있습니다
 
-공식 : w \* h - (w + h - 최대공약수 )
+공식 : (w + h - 최대공약수 )
