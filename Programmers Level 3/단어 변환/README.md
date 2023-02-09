@@ -50,7 +50,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/43163
 
 3회 변환으로 가능한 단어들 => 'lot', 'dog'
 
-4회 변환으로 가능한 단어들 => 'cog'
+4회 변환으로 가능한 단어들 => 'log', 'cog'
 
 이런식으로 탐색가능한 모든 경로를 돌면서 (2글자가 일치하는 단어들) 최소한의 변환으로 target으로 바꾸는 횟수를 구할수 있습니다
 

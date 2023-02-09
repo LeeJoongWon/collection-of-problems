@@ -8,7 +8,6 @@ function solution(begin, target, words) {
     queue.push([begin, answer]);
 
     while (queue) {
-        console.log('🚀  queue', queue);
         let [v, cnt] = queue.shift();
         if (v === target) {
             return cnt;
