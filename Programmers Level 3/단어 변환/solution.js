@@ -22,7 +22,6 @@ function solution(begin, target, words) {
             }
 
             if (notEqual === 1) {
-                console.log(word);
                 queue.push([word, ++cnt]);
                 visited[index] = true;
             }
