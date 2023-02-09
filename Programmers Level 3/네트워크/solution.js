@@ -4,14 +4,14 @@ function solution(n, computers) {
 
     function dfs(network) {
         visited[network] = true;
-        computers[network].forEach((el, index) => {
-            if (el === 1 && !visited[index]) dfs(index);
+        computers[network].forEach((connected, network) => {
+            if (connected === 1 && !visited[network]) dfs(network);
         });
     }
 
-    for (let i = 0; i < n; i++) {
-        if (visited[i]) continue;
-        dfs(i);
+    for (let network = 0; network < n; network++) {
+        if (visited[network]) continue;
+        dfs(network);
         answer++;
     }
 
