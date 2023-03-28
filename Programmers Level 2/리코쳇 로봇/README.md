@@ -1,4 +1,4 @@
-# 멀쩡한 사각형 (프로그래머스)
+# 리코쳇 로봇 (프로그래머스)
 
 https://school.programmers.co.kr/learn/courses/30/lessons/169199
 
