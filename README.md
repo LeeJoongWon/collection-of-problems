@@ -5,7 +5,7 @@
 ### Programmers
 
 -   Level 1 (22개)
--   Level 2 (16개)
+-   Level 2 (17개)
 -   Level 3 (4개)
 
 ### Etc
