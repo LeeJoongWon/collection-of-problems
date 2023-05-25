@@ -1,6 +1,6 @@
 ## 알고리즘 문제
 
--   total : 47
+-   total : 49
 
 ### Programmers
 
