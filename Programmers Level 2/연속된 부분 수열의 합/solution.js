@@ -1,15 +1,23 @@
-function solution(s) {
-    s = isNaN(s[0]) ? s.charAt(0).toUpperCase() + s.slice(1) : s;
+function solution(sequence, k) {
+    // 1개의 수열로 K값과 일치할떄
+    if (sequence[sequence.length] === k) return [sequence.length, sequence.length];
+    if (sequence[0] === k) return [0, 0];
 
-    let empty = false;
-    for (let i = 1; i < s.length; i++) {
-        if (s[i] === ' ') empty = true;
-        else if (empty) {
-            s = `${s.slice(0, i)}${s.charAt(i).toUpperCase()}${s.slice(i + 1)}`;
-            empty = false;
+    let answer = [0, sequence.length];
+    let front = 0;
+    let back = 1;
+    let sum = sequence[back] + sequence[front];
+
+    while (back < sequence.length) {
+        if (sum === k) answer = answer[1] - answer[0] > back - front ? [front, back] : answer;
+
+        if (sum > k) {
+            sum -= sequence[front];
+            front++;
         } else {
-            s = `${s.slice(0, i)}${s.charAt(i).toLowerCase()}${s.slice(i + 1)}`;
+            back++;
+            sum += sequence[back];
         }
     }
-    return s;
+    return answer;
 }
